@@ -8,8 +8,8 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         System.out.printf("Hello and welcome!)))))))))))))))))))))))))))))");
+         System.out.printf("Hello and conflict now");
         System.out.printf("My name is Ulya. I changed smth in this project.");
-
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
